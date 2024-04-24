@@ -1,3 +1,3 @@
-# Travelers_talk
+# sns
 
-## travel story
+## traveler's sns
